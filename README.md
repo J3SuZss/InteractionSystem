@@ -9,7 +9,7 @@ A flexible, component-based interaction system for Unreal Engine 5 built entirel
 
 *Hover detection with outline material and interaction prompt*
 
-### Door Interaction
+### Different Interactions
 ![Door Interaction](https://github.com/J3SuZss/InteractionSystem/blob/main/ajiolo.gif)
 
 *Same system works seamlessly with different object types*
